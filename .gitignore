@@ -1,0 +1,8 @@
+.DS_Store
+.env*
+.tmp/
+# A user's own engagement stays local; only the placeholder READMEs ship.
+/intake/*
+!/intake/README.md
+/output/*
+!/output/README.md
